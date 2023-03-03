@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VisualDiary ![](https://img.shields.io/github/commit-activity/y/aekari/Capstone?style=plastic)
 
 VisualDiary is a journal application to easily record general emotional states daily with just a click of a button. The goal is to include some analytic features and nice visualizations using JS and CSS frameworks.
@@ -55,4 +56,43 @@ For more information on Git commands and how to use Git, refer to the [official 
 - https://startbootstrap.com/template/bare
 
 ## Tools
+=======
+# Charis ![](https://img.shields.io/github/commit-activity/y/aekari/Capstone?style=plastic)
+Charis is an in-progress visual diary application that will have analytics and mood tracking features.
+
+<!---
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[LINK NAME](https://choosealicense.com/licenses/LISCENCENAME/)
+>>>>>>> ada7fba838cbc494017da2a2bd6decf7ae6ec39c
 -->
